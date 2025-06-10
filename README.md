@@ -49,3 +49,5 @@ Streamlit/Flask for web app
 
 Google Colab/Jupyter Notebook for development.
 
+👉 [Click here to try the MEDICAL DIAGNOSER USING DEEP LEARNING App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/BUILD-A-DEEP-LEARNING-BASED-MEDICAL-DIAGNOSER)
+
