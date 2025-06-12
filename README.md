@@ -22,3 +22,8 @@ Google Colab/Jupyter Notebook for development.
 
 👉 [Click here to try the MEDICAL DIAGNOSER USING DEEP LEARNING App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/BUILD-A-DEEP-LEARNING-BASED-MEDICAL-DIAGNOSER)
 
+📸 Screenshot 👇
+
+![{597AD4E8-D23C-4145-B923-49CD29C6B5ED}](https://github.com/user-attachments/assets/324e8e96-fce4-481a-a24e-fba31a3c8c9e)
+
+
